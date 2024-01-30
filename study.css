@@ -1,0 +1,150 @@
+body{
+    background-color: rgb(106, 165, 96);
+}
+.box{
+    display: flex;
+
+}
+.navbar{
+    height: 50px;
+    width: 1300px;
+    border: 2px solid green;
+    background-color: #b0bc3d;
+}
+#h3{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.box1{
+    border: 2px dotted black;
+    height: 400px;
+    width: 600px;
+    margin-left: 20px;
+    margin-top: 10px;
+    background-color:rgb(151, 142, 166);
+    color: yellow;
+    border-radius: 50px;
+}
+#list1{
+    color: white;
+    
+}
+.box2{
+    border: 2px double black;
+    height: 400px;
+    width: 600px;
+    margin-left: 20px;
+    margin-top: 10px;
+    background-color: antiquewhite;
+    color: green;
+    border-radius: 50px;
+    
+}
+#img{
+    margin-top: 20px;
+}
+#btn1{
+    height: 30px;
+    width: 200px;
+    background-color:pink;
+    border-radius: 50px;
+}
+#btn2{
+    height: 30px;
+    width: 200px;
+    background-color:paleturquoise;
+    border-radius: 50px;
+    margin-top: 20px;
+    
+}
+#btn3{
+    height: 30px;
+    width: 200px;
+    background-color:rgb(208, 199, 190);
+    border-radius: 50px;
+    margin-top: 20px;
+    
+}
+#btn4{
+    height: 30px;
+    width: 200px;
+    background-color:rgb(64, 219, 219);
+    border-radius: 50px;
+    margin-top: 20px;
+    
+}
+#btn5{
+    height: 30px;
+    width: 200px;
+    background-color:rgb(157, 180, 175);
+    border-radius: 50px;
+    margin-top: 20px;
+    
+}
+#btn6{
+    height: 30px;
+    width: 200px;
+    background-color:rgb(50, 167, 142);
+    border-radius: 50px;
+    margin-top: 20px;
+    
+}
+#btn7{
+    height: 30px;
+    width: 300px;
+    background-color:rgb(227, 113, 215);
+    border-radius: 50px;
+    margin-top: 10px;
+    
+}
+#bt1{
+    height: 30px;
+    width: 300px;
+    background-color:rgb(227, 113, 215);
+    border-radius: 50px;
+    margin-top: 12px;  
+}
+#bt2{
+    height: 30px;
+    width: 300px;
+    background-color:rgb(77, 239, 77);
+    border-radius: 50px;
+    margin-top: 12px;
+}
+#bt3{
+    height: 30px;
+    width: 300px;
+    background-color:rgb(210, 208, 223);
+    border-radius: 50px;
+    margin-top: 12px;
+}
+#bt4{
+    height: 30px;
+    width: 300px;
+    background-color:rgb(152, 173, 125);
+    border-radius: 50px;
+    margin-top: 12px;
+}
+#bt5{
+    height: 30px;
+    width: 300px;
+    background-color:rgb(241, 125, 30);
+    border-radius: 50px;
+    margin-top: 12px;
+}
+#bt6{
+    height: 30px;
+    width: 300px;
+    background-color:rgb(214, 202, 207);
+    border-radius: 50px;
+    margin-top: 12px;
+}
+#bt7{
+    height: 30px;
+    width: 300px;
+    background-color:rgb(156, 194, 32);
+    border-radius: 50px;
+    margin-top: 12px;
+}
